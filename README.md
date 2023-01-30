@@ -5,6 +5,9 @@
 ## Какие ресурсы мониторятся?
 
 - Коллективные блоги:
+    - Microsoft Developer Blogs:
+        - Windows Command Line - https://devblogs.microsoft.com/commandline/
+        - PowerShell Team - https://devblogs.microsoft.com/powershell/
     - Хабр (статьи с рейтингом 20 и выше):
-        - https://habr.com/ru/hub/devops/
-        - https://habr.com/ru/hub/kubernetes/
+        - DevOps - https://habr.com/ru/hub/devops/
+        - Kubernetes - https://habr.com/ru/hub/kubernetes/
