@@ -1,0 +1,12 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2023-02-16T12:47:18.614Z",
+    "message": "Post is not valid: date is not valid.",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2023-02-16T12:47:22.670Z",
+    "message": "Post is not valid: date is not valid.",
+    "counter": 1
+  }
+}
