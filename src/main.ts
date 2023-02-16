@@ -8,7 +8,9 @@ const app = new App(() => [
   new DevBlogsScraper('commandline'),
   new DevBlogsScraper('powershell'),
   new HabrScraper('devops'),
+  new HabrScraper('it-infrastructure'),
   new HabrScraper('kubernetes'),
+  new HabrScraper('postgresql'),
   new KubernetesScraper(),
 ]);
 
