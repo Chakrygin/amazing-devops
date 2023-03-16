@@ -7,6 +7,7 @@ https://habr.com/ru/company/oleg-bunin/blog/720986
 https://habr.com/ru/company/otus/blog/719502
 https://habr.com/ru/company/ozontech/blog/722042
 https://habr.com/ru/company/postgrespro/blog/720272
+https://habr.com/ru/company/postgrespro/blog/722784
 https://habr.com/ru/company/selectel/blog/719520
 https://habr.com/ru/company/selectel/blog/721274
 https://habr.com/ru/company/selectel/blog/722536
