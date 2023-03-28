@@ -1,0 +1,22 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2023-03-28T22:25:06.761Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2023-03-28T22:25:22.675Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2023-03-28T22:25:27.325Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2023-03-28T22:25:51.634Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  }
+}
