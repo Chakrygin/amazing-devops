@@ -1,0 +1,12 @@
+{
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2023-03-28T16:43:28.241Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2023-03-28T16:43:43.884Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  }
+}
