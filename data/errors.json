@@ -1,0 +1,22 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2023-03-28T12:46:10.365Z",
+    "message": "Post is not valid: title is empty, href is empty, link href at index 0 is empty.",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2023-03-28T12:46:11.879Z",
+    "message": "Post is not valid: title is empty, href is empty, link href at index 0 is empty.",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2023-03-28T12:46:13.344Z",
+    "message": "Post is not valid: title is empty, href is empty, link href at index 0 is empty.",
+    "counter": 1
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2023-03-28T12:46:14.898Z",
+    "message": "Post is not valid: title is empty, href is empty, link href at index 0 is empty.",
+    "counter": 1
+  }
+}
