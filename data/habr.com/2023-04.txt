@@ -1,9 +1,13 @@
+https://habr.com/ru/articles/719424
 https://habr.com/ru/companies/bastion/articles/724966
 https://habr.com/ru/companies/flant/articles/722848
+https://habr.com/ru/companies/flant/articles/723656
 https://habr.com/ru/companies/flant/articles/725706
 https://habr.com/ru/companies/flant/articles/726528
 https://habr.com/ru/companies/nlmk/articles/722870
 https://habr.com/ru/companies/oleg-bunin/articles/724018
+https://habr.com/ru/companies/otus/articles/719502
+https://habr.com/ru/companies/postgrespro/articles/720272
 https://habr.com/ru/companies/postgrespro/articles/722784
 https://habr.com/ru/companies/ruvds/articles/725768
 https://habr.com/ru/companies/selectel/articles/722536
