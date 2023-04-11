@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions
+https://kubernetes.io/blog/2023/04/11/kubernetes-v1-27-release
