@@ -7,6 +7,8 @@ https://habr.com/ru/companies/flant/articles/725706
 https://habr.com/ru/companies/flant/articles/726528
 https://habr.com/ru/companies/flant/articles/728040
 https://habr.com/ru/companies/kaspersky/articles/725360
+https://habr.com/ru/companies/kts/articles/723980
+https://habr.com/ru/companies/kts/articles/726026
 https://habr.com/ru/companies/nlmk/articles/722870
 https://habr.com/ru/companies/oleg-bunin/articles/724018
 https://habr.com/ru/companies/oleg-bunin/articles/726958
@@ -20,6 +22,7 @@ https://habr.com/ru/companies/selectel/articles/722536
 https://habr.com/ru/companies/selectel/articles/725234
 https://habr.com/ru/companies/selectel/articles/727366
 https://habr.com/ru/companies/selectel/articles/728324
+https://habr.com/ru/companies/selectel/articles/728972
 https://habr.com/ru/companies/timeweb/articles/720510
 https://habr.com/ru/company/flant/blog/725706
 https://habr.com/ru/company/ruvds/blog/725768
