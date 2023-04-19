@@ -1,3 +1,4 @@
 https://kubernetes.io/blog/2023/04/06/keeping-kubernetes-secure-with-updated-go-versions
 https://kubernetes.io/blog/2023/04/11/kubernetes-v1-27-release
 https://kubernetes.io/blog/2023/04/17/fine-grained-pod-topology-spread-features-beta
+https://kubernetes.io/blog/2023/04/18/kubernetes-1-27-efficient-selinux-relabeling-beta
