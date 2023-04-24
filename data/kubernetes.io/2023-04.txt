@@ -4,3 +4,4 @@ https://kubernetes.io/blog/2023/04/17/fine-grained-pod-topology-spread-features-
 https://kubernetes.io/blog/2023/04/18/kubernetes-1-27-efficient-selinux-relabeling-beta
 https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta
 https://kubernetes.io/blog/2023/04/21/node-log-query-alpha
+https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga
