@@ -5,3 +5,4 @@ https://kubernetes.io/blog/2023/04/18/kubernetes-1-27-efficient-selinux-relabeli
 https://kubernetes.io/blog/2023/04/20/read-write-once-pod-access-mode-beta
 https://kubernetes.io/blog/2023/04/21/node-log-query-alpha
 https://kubernetes.io/blog/2023/04/24/openapi-v3-field-validation-ga
+https://kubernetes.io/blog/2023/04/25/k8s-cve-feed-beta
