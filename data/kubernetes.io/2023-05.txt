@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2023/05/02/hpa-container-resource-metric
+https://kubernetes.io/blog/2023/05/04/kubernetes-1-27-statefulset-pvc-auto-deletion-beta
