@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2023/05/09/introducing-kubectl-applyset-pruning
 https://kubernetes.io/blog/2023/05/11/nodeport-dynamic-and-static-allocation
 https://kubernetes.io/blog/2023/05/12/in-place-pod-resize-alpha
 https://kubernetes.io/blog/2023/05/15/speed-up-pod-startup
+https://kubernetes.io/blog/2023/05/16/kms-v2-moves-to-beta
