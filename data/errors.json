@@ -1,0 +1,12 @@
+{
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2023-06-27T06:31:39.910Z",
+    "message": "Failed to parse post. Rating is NaN.",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2023-06-27T06:31:42.440Z",
+    "message": "Failed to parse post. Rating is NaN.",
+    "counter": 1
+  }
+}
