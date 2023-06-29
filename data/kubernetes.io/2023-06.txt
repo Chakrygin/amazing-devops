@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2023/06/09/dl-adopt-cdn
+https://kubernetes.io/blog/2023/06/29/container-image-signature-verification
