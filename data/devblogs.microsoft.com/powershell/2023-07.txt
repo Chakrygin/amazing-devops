@@ -1,1 +1,2 @@
+https://devblogs.microsoft.com/powershell/json-adapter-feedback-provider
 https://devblogs.microsoft.com/powershell/what-are-feedback-providers
