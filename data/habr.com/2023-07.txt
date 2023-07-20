@@ -1,6 +1,7 @@
 https://habr.com/ru/articles/745948
 https://habr.com/ru/articles/746138
 https://habr.com/ru/articles/748664
+https://habr.com/ru/articles/749262
 https://habr.com/ru/companies/croc/articles/745060
 https://habr.com/ru/companies/domclick/articles/744764
 https://habr.com/ru/companies/flant/articles/745034
@@ -18,3 +19,4 @@ https://habr.com/ru/companies/selectel/articles/748544
 https://habr.com/ru/companies/sportmaster_lab/articles/746320
 https://habr.com/ru/companies/ua-hosting/articles/729050
 https://habr.com/ru/companies/vk/articles/744242
+https://habr.com/ru/companies/yandex/articles/747860
