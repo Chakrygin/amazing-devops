@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2023/08/14/sig-contribex-spotlight-2023
+https://kubernetes.io/blog/2023/08/15/kubernetes-v1-28-release
