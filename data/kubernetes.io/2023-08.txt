@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2023/08/15/kubernetes-v1-28-release
 https://kubernetes.io/blog/2023/08/15/pkgs-k8s-io-introduction
 https://kubernetes.io/blog/2023/08/16/kubernetes-1-28-non-graceful-node-shutdown-ga
 https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga
+https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update
