@@ -6,6 +6,7 @@ https://habr.com/ru/articles/756074
 https://habr.com/ru/companies/alfa/articles/753792
 https://habr.com/ru/companies/cloud_mts/articles/747078
 https://habr.com/ru/companies/flant/articles/751656
+https://habr.com/ru/companies/flant/articles/751746
 https://habr.com/ru/companies/flant/articles/752254
 https://habr.com/ru/companies/flant/articles/754398
 https://habr.com/ru/companies/flant/articles/756044
