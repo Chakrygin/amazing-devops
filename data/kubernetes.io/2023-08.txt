@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga
 https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update
 https://kubernetes.io/blog/2023/08/23/kubelet-podresources-api-ga
 https://kubernetes.io/blog/2023/08/25/native-sidecar-containers
+https://kubernetes.io/blog/2023/08/28/kubernetes-1-28-feature-mixed-version-proxy-alpha
