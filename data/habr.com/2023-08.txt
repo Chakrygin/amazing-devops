@@ -12,6 +12,7 @@ https://habr.com/ru/companies/flant/articles/753122
 https://habr.com/ru/companies/flant/articles/754398
 https://habr.com/ru/companies/flant/articles/755038
 https://habr.com/ru/companies/flant/articles/756044
+https://habr.com/ru/companies/kaspersky/articles/756812
 https://habr.com/ru/companies/regionsoft/articles/753278
 https://habr.com/ru/companies/ru_mts/articles/752320
 https://habr.com/ru/companies/ruvds/articles/744036
@@ -21,6 +22,7 @@ https://habr.com/ru/companies/selectel/articles/749112
 https://habr.com/ru/companies/selectel/articles/753190
 https://habr.com/ru/companies/selectel/articles/753808
 https://habr.com/ru/companies/selectel/articles/756146
+https://habr.com/ru/companies/selectel/articles/756934
 https://habr.com/ru/companies/serverspace/articles/755808
 https://habr.com/ru/companies/tensor/articles/751458
 https://habr.com/ru/companies/timeweb/articles/751008
