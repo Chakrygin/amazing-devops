@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2023/08/31/legacy-package-repository-deprecation
 https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools
 https://kubernetes.io/blog/2023/09/13/userns-alpha
 https://kubernetes.io/blog/2023/09/25/kubeadm-use-etcd-learner-mode
+https://kubernetes.io/blog/2023/09/26/happy-7th-birthday-kubeadm
