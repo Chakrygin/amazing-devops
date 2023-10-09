@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/powershell/psreadline-2-3-4-ga-release
+https://devblogs.microsoft.com/powershell/psresourceget-is-generally-available
