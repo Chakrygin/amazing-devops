@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2023/10/02/steering-committee-results-2023
 https://kubernetes.io/blog/2023/10/05/sig-architecture-conformance-spotlight-2023
 https://kubernetes.io/blog/2023/10/10/cri-o-community-package-infrastructure
 https://kubernetes.io/blog/2023/10/12/bootstrap-an-air-gapped-cluster-with-kubeadm
+https://kubernetes.io/blog/2023/10/20/kcs-shanghai
