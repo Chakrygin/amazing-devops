@@ -5,3 +5,4 @@ https://kubernetes.io/blog/2023/10/12/bootstrap-an-air-gapped-cluster-with-kubea
 https://kubernetes.io/blog/2023/10/20/kcs-shanghai
 https://kubernetes.io/blog/2023/10/23/persistent-volume-last-phase-transition-time
 https://kubernetes.io/blog/2023/10/24/plants-process-and-parties-the-kubernetes-1.28-release-interview
+https://kubernetes.io/blog/2023/10/25/introducing-ingress2gateway
