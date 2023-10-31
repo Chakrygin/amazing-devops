@@ -1,3 +1,4 @@
+https://devblogs.microsoft.com/powershell/powershell-7-4-release-candidate-1
 https://devblogs.microsoft.com/powershell/powershell-extension-for-visual-studio-code-fall-2023-update
 https://devblogs.microsoft.com/powershell/psreadline-2-3-4-ga-release
 https://devblogs.microsoft.com/powershell/psresourceget-is-generally-available
