@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2023/11/03/k8s-contributor-summit-behind-the-scenes
 https://kubernetes.io/blog/2023/11/07/introducing-sig-etcd
 https://kubernetes.io/blog/2023/11/16/kubernetes-1-29-upcoming-changes
 https://kubernetes.io/blog/2023/11/16/the-case-for-kubernetes-resource-limits
+https://kubernetes.io/blog/2023/11/24/sig-testing-spotlight-2023
