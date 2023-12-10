@@ -1,6 +1,7 @@
 https://habr.com/ru/articles/778206
 https://habr.com/ru/articles/778922
 https://habr.com/ru/articles/779362
+https://habr.com/ru/companies/alfa/articles/778796
 https://habr.com/ru/companies/bastion/articles/767706
 https://habr.com/ru/companies/flant/articles/778394
 https://habr.com/ru/companies/k2tech/articles/779162
@@ -13,6 +14,7 @@ https://habr.com/ru/companies/ozontech/articles/779266
 https://habr.com/ru/companies/qiwi/articles/778158
 https://habr.com/ru/companies/selectel/articles/778560
 https://habr.com/ru/companies/selectel/articles/779018
+https://habr.com/ru/companies/selectel/articles/779514
 https://habr.com/ru/companies/serverspace/articles/779074
 https://habr.com/ru/companies/vk/articles/772346
 https://habr.com/ru/companies/vk/articles/772578
