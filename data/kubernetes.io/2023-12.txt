@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2023/12/14/cloud-provider-integration-changes
