@@ -1,3 +1,5 @@
 https://kubernetes.io/blog/2023/12/14/cloud-provider-integration-changes
 https://kubernetes.io/blog/2023/12/15/csi-node-expand-secret-support-ga
 https://kubernetes.io/blog/2023/12/15/kubernetes-1-29-volume-attributes-class
+https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha
+https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga
