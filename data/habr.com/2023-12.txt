@@ -27,6 +27,7 @@ https://habr.com/ru/companies/selectel/articles/779826
 https://habr.com/ru/companies/serverspace/articles/779074
 https://habr.com/ru/companies/serverspace/articles/780624
 https://habr.com/ru/companies/tensor/articles/779698
+https://habr.com/ru/companies/tensor/articles/781926
 https://habr.com/ru/companies/vk/articles/772346
 https://habr.com/ru/companies/vk/articles/772578
 https://habr.com/ru/companies/vk/articles/780628
