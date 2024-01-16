@@ -1,9 +1,4 @@
 {
-  "Habr / PostgreSQL": {
-    "timestamp": "2024-01-16T16:31:16.377Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
-  },
   "Kubernetes": {
     "timestamp": "2024-01-16T04:28:04.123Z",
     "message": "Post is not valid: image is not valid url.",
