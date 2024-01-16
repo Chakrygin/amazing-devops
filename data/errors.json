@@ -1,7 +1,7 @@
 {
   "Kubernetes": {
-    "timestamp": "2024-01-15T02:37:53.468Z",
+    "timestamp": "2024-01-16T04:28:04.123Z",
     "message": "Post is not valid: image is not valid url.",
-    "counter": 2
+    "counter": 3
   }
 }
