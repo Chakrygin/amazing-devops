@@ -82,12 +82,12 @@ export default class KubernetesScraper implements Scraper {
     const response = await axios.get(post.href);
     const $ = cheerio.load(response.data as string);
     const article = $('main>div.td-content');
-    const image = this.getImage(article, $);
+    // const image = this.getImage(article, $);
     const description = this.getDescription(article, $);
 
     post = {
       ...post,
-      image,
+      // image,
       description,
     };
 
