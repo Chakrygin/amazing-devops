@@ -22,3 +22,4 @@ https://habr.com/ru/companies/serverspace/articles/782526
 https://habr.com/ru/companies/tensor/articles/785144
 https://habr.com/ru/companies/timeweb/articles/787774
 https://habr.com/ru/companies/vk/articles/776722
+https://habr.com/ru/companies/yandex/articles/789838
