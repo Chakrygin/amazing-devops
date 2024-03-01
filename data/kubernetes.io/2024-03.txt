@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2024/03/01/sig-cloud-provider-spotlight-2024
