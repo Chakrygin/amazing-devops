@@ -22,7 +22,9 @@ https://habr.com/ru/companies/selectel/articles/801189
 https://habr.com/ru/companies/selectel/articles/801397
 https://habr.com/ru/companies/selectel/articles/801565
 https://habr.com/ru/companies/selectel/articles/802249
+https://habr.com/ru/companies/selectel/articles/804031
 https://habr.com/ru/companies/serverspace/articles/798451
+https://habr.com/ru/companies/slurm/articles/803739
 https://habr.com/ru/companies/sravni/articles/802705
 https://habr.com/ru/companies/tensor/articles/800397
 https://habr.com/ru/companies/tochka/articles/799949
