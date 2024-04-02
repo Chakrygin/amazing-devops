@@ -1,0 +1,12 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2024-04-02T20:37:28.482Z",
+    "message": "read ETIMEDOUT",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2024-04-02T20:53:24.898Z",
+    "message": "read ETIMEDOUT",
+    "counter": 1
+  }
+}
