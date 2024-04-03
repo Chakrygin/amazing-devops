@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2024/04/03/intro-windows-ops-readiness
