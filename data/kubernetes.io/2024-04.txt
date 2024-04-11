@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2024/04/03/intro-windows-ops-readiness
 https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-1
 https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-2
 https://kubernetes.io/blog/2024/04/05/diy-create-your-own-cloud-with-kubernetes-part-3
+https://kubernetes.io/blog/2024/04/11/sig-architecture-code-spotlight-2024
