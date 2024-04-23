@@ -2,6 +2,7 @@ https://habr.com/ru/articles/800121
 https://habr.com/ru/articles/805889
 https://habr.com/ru/articles/807501
 https://habr.com/ru/articles/807645
+https://habr.com/ru/companies/cdnnow/articles/809481
 https://habr.com/ru/companies/croc/articles/806101
 https://habr.com/ru/companies/domclick/articles/804535
 https://habr.com/ru/companies/flant/articles/807817
@@ -25,7 +26,9 @@ https://habr.com/ru/companies/selectel/articles/807777
 https://habr.com/ru/companies/selectel/articles/808335
 https://habr.com/ru/companies/serverspace/articles/806639
 https://habr.com/ru/companies/tensor/articles/790282
+https://habr.com/ru/companies/tensor/articles/808931
 https://habr.com/ru/companies/vk/articles/805029
+https://habr.com/ru/companies/vk/articles/809447
 https://habr.com/ru/companies/yadro/articles/805701
 https://habr.com/ru/companies/yandex/articles/801415
 https://habr.com/ru/companies/yandex/articles/804419
