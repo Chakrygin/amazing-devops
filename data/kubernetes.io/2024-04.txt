@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2024/04/11/sig-architecture-code-spotlight-2024
 https://kubernetes.io/blog/2024/04/17/kubernetes-v1-30-release
 https://kubernetes.io/blog/2024/04/22/userns-beta
 https://kubernetes.io/blog/2024/04/23/recursive-read-only-mounts
+https://kubernetes.io/blog/2024/04/24/validating-admission-policy-ga
