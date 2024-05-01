@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2024/05/01/cri-streaming-explained
