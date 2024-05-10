@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2024/05/01/cri-streaming-explained
+https://kubernetes.io/blog/2024/05/09/gateway-api-v1-1
