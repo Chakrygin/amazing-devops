@@ -3,5 +3,6 @@ https://habr.com/ru/articles/812601
 https://habr.com/ru/companies/orion_soft/articles/812633
 https://habr.com/ru/companies/ru_mts/articles/812563
 https://habr.com/ru/companies/selectel/articles/811565
+https://habr.com/ru/companies/selectel/articles/813485
 https://habr.com/ru/companies/wiseops/articles/812331
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/810907
