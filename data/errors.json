@@ -1,6 +1,21 @@
 {
+  "Habr / DevOps": {
+    "timestamp": "2024-05-13T16:30:29.989Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2024-05-13T16:30:32.272Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
   "Habr / Kubernetes": {
-    "timestamp": "2024-05-13T14:25:53.885Z",
+    "timestamp": "2024-05-13T16:30:34.259Z",
+    "message": "Request failed with status code 500",
+    "counter": 2
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2024-05-13T16:30:36.505Z",
     "message": "Request failed with status code 500",
     "counter": 1
   }
