@@ -1,3 +1,4 @@
 https://kubernetes.io/blog/2024/05/01/cri-streaming-explained
 https://kubernetes.io/blog/2024/05/09/gateway-api-v1-1
 https://kubernetes.io/blog/2024/05/16/contribute-as-sig-docs-reviewer
+https://kubernetes.io/blog/2024/05/20/completing-cloud-provider-migration
