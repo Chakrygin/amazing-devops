@@ -1,2 +1,0 @@
-https://kubernetes.io/blog/2023/07/06/confidential-kubernetes
-https://kubernetes.io/blog/2023/07/20/sig-cli-spotlight-2023
