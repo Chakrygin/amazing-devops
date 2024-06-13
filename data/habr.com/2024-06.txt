@@ -3,6 +3,7 @@ https://habr.com/ru/articles/820343
 https://habr.com/ru/companies/arenadata/articles/820807
 https://habr.com/ru/companies/flant/articles/817685
 https://habr.com/ru/companies/flant/articles/820153
+https://habr.com/ru/companies/postgrespro/articles/815587
 https://habr.com/ru/companies/selectel/articles/812895
 https://habr.com/ru/companies/vk/articles/820617
 https://habr.com/ru/companies/vtb/articles/819133
