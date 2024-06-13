@@ -6,3 +6,4 @@ npm run clean
 npm run build
 
 git add "dist/index.js"
+git add "dist/package.json"

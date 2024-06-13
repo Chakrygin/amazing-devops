@@ -1,4 +1,4 @@
-import { testScraper } from 'core/testing';
+import { testScraper } from '@core/testing';
 
 import DevBlogsScraper from '../src/scrapers/DevBlogsScraper';
 

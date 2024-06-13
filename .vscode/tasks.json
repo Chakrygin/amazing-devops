@@ -3,17 +3,20 @@
   "tasks": [
     {
       "type": "npm",
-      "script": "clean",
-      "label": "Clean",
-    },
-    {
-      "type": "npm",
-      "group": "build",
       "script": "build",
       "label": "Build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
       "dependsOn": [
         "Clean"
       ]
+    },
+    {
+      "type": "npm",
+      "script": "clean",
+      "label": "Clean",
     }
   ]
 }

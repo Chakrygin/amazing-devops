@@ -6,51 +6,14 @@
       "type": "node",
       "request": "launch",
       "console": "integratedTerminal",
-      "program": "${workspaceFolder}/src/main.ts",
+      "program": "src/main.ts",
       "cwd": "${workspaceFolder}",
-      "runtimeArgs": [
-        "--nolazy",
-        "--require",
-        "./node_modules/ts-node/register"
-      ],
       "envFile": "${env:USERPROFILE}/amazing.env",
-      "outFiles": [
-        "${workspaceFolder}/src/*.ts",
-        "${workspaceFolder}/src/**/*.ts",
-        "${workspaceFolder}/../amazing-core/lib/*.js",
-        "${workspaceFolder}/../amazing-core/lib/**/*.js",
-      ],
+      "runtimeExecutable": "tsx",
       "skipFiles": [
-        "<node_internals>/**"
-      ],
-    },
-    {
-      "name": "vscode-jest-tests.v2",
-      "type": "node",
-      "request": "launch",
-      "console": "integratedTerminal",
-      "program": "${workspaceFolder}/node_modules/jest/bin/jest.js",
-      "cwd": "${workspaceFolder}",
-      "args": [
-        "--runInBand",
-        "--watchAll=false",
-        "--testNamePattern",
-        "${jest.testNamePattern}",
-        "--runTestsByPath",
-        "${jest.testFile}"
-      ],
-      "envFile": "${env:USERPROFILE}/amazing.env",
-      "outFiles": [
-        "${workspaceFolder}/src/*.ts",
-        "${workspaceFolder}/src/**/*.ts",
-        "${workspaceFolder}/tests/*.ts",
-        "${workspaceFolder}/tests/**/*.ts",
-        "${workspaceFolder}/../amazing-core/lib/*.js",
-        "${workspaceFolder}/../amazing-core/lib/**/*.js",
-      ],
-      "skipFiles": [
-        "<node_internals>/**"
-      ],
-    },
+        "<node_internals>/**",
+        "${workspaceFolder}/node_modules/**",
+      ]
+    }
   ]
 }
