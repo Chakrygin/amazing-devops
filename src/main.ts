@@ -1,8 +1,8 @@
 import { App } from '@core/App';
 
-import DevBlogsScraper from './scrapers/DevBlogsScraper';
-import HabrScraper from './scrapers/HabrScraper';
-import KubernetesScraper from './scrapers/KubernetesScraper';
+import { DevBlogsScraper } from './scrapers/DevBlogsScraper';
+import { HabrScraper } from './scrapers/HabrScraper';
+import { KubernetesScraper } from './scrapers/KubernetesScraper';
 
 const app = new App(() => [
   new DevBlogsScraper('commandline'),

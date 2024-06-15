@@ -5,7 +5,7 @@ const blogs = {
   'powershell': 'PowerShell Team',
 };
 
-export default class DevBlogsScraper extends DevBlogsScraperBase {
+export class DevBlogsScraper extends DevBlogsScraperBase {
   constructor(id: keyof typeof blogs) {
     super(id, blogs[id]);
   }

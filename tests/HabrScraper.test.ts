@@ -1,6 +1,6 @@
 import { testScraper } from '@core/testing';
 
-import HabrScraper from '../src/scrapers/HabrScraper';
+import { HabrScraper } from '../src/scrapers/HabrScraper';
 
 test('Habr / DevOps', async () => {
   await testScraper(() => new HabrScraper('devops'));

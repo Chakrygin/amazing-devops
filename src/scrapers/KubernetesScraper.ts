@@ -4,7 +4,7 @@ import moment from 'moment';
 import { Link, Post } from '@core/models';
 import { ScraperBase } from '@core/scrapers';
 
-export default class KubernetesScraper extends ScraperBase {
+export class KubernetesScraper extends ScraperBase {
   readonly name = 'Kubernetes';
   readonly path = 'kubernetes.io';
 

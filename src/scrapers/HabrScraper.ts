@@ -7,7 +7,7 @@ const hubs = {
   'postgresql': 'PostgreSQL',
 };
 
-export default class HabrScraper extends HabrScraperBase {
+export class HabrScraper extends HabrScraperBase {
   constructor(id: keyof typeof hubs) {
     super(id, hubs[id], {
       minRating: 20,
