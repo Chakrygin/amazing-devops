@@ -1,0 +1,22 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2024-06-19T20:24:21.399Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2024-06-19T20:24:23.458Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2024-06-19T20:24:25.525Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2024-06-19T20:24:27.663Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  }
+}
