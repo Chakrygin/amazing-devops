@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2024/06/06/10-years-of-kubernetes
+https://kubernetes.io/blog/2024/06/20/sig-node-spotlight-2024/
