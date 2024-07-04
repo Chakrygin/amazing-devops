@@ -1,0 +1,12 @@
+{
+  "Habr / Kubernetes": {
+    "timestamp": "2024-07-04T12:44:25.467Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2024-07-04T12:44:25.941Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  }
+}
