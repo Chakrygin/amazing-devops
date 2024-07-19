@@ -6,6 +6,7 @@ https://habr.com/ru/articles/828762/
 https://habr.com/ru/companies/astralinux/articles/829048/
 https://habr.com/ru/companies/banki/articles/827760/
 https://habr.com/ru/companies/bastion/articles/829402/
+https://habr.com/ru/companies/flant/articles/822435/
 https://habr.com/ru/companies/kuper/articles/827988/
 https://habr.com/ru/companies/orion_soft/articles/826204/
 https://habr.com/ru/companies/sberbank/articles/824560/
