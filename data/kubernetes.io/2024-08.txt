@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2024/08/07/sig-api-machinery-spotlight-2024/
