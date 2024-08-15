@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2024/08/12/feature-gates-in-client-go/
 https://kubernetes.io/blog/2024/08/13/kubernetes-v1-31-release/
 https://kubernetes.io/blog/2024/08/14/kubernetes-1-31-moving-cgroup-v1-support-maintenance-mode/
 https://kubernetes.io/blog/2024/08/14/last-phase-transition-time-ga/
+https://kubernetes.io/blog/2024/08/15/consistent-read-from-cache-beta/
