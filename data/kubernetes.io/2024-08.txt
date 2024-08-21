@@ -9,3 +9,4 @@ https://kubernetes.io/blog/2024/08/16/kubernetes-1-31-prevent-persistentvolume-l
 https://kubernetes.io/blog/2024/08/16/matchlabelkeys-podaffinity/
 https://kubernetes.io/blog/2024/08/19/kubernetes-1-31-pod-failure-policy-for-jobs-goes-ga/
 https://kubernetes.io/blog/2024/08/20/websockets-transition/
+https://kubernetes.io/blog/2024/08/21/cri-cgroup-driver-lookup-now-beta/
