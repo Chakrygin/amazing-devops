@@ -13,3 +13,4 @@ https://kubernetes.io/blog/2024/08/21/cri-cgroup-driver-lookup-now-beta/
 https://kubernetes.io/blog/2024/08/22/cpumanager-static-policy-distributed-cpu-across-cores/
 https://kubernetes.io/blog/2024/08/22/fine-grained-supplementalgroups-control/
 https://kubernetes.io/blog/2024/08/22/kubernetes-1-31-custom-profiling-kubectl-debug/
+https://kubernetes.io/blog/2024/08/23/kubernetes-1-31-kubeadm-v1beta4/
