@@ -1,12 +1,12 @@
 {
   "DevBlogs / PowerShell Team": {
-    "timestamp": "2024-09-03T18:33:19.329Z",
+    "timestamp": "2024-09-03T20:28:07.029Z",
     "message": "Failed to parse html page. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / Windows Command Line": {
-    "timestamp": "2024-09-03T18:33:18.985Z",
+    "timestamp": "2024-09-03T20:28:06.616Z",
     "message": "Failed to parse html page. No posts found.",
-    "counter": 1
+    "counter": 2
   }
 }
