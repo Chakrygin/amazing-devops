@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2024/10/02/steering-committee-results-2024/
+https://kubernetes.io/blog/2024/10/28/k8s-upstream-training-japan-spotlight/
