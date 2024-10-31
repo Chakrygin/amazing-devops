@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/powershell/announcing-microsoft-powershell-platyps-1-0-0-preview1/
+https://devblogs.microsoft.com/powershell/announcing-platyps-100-preview1/
