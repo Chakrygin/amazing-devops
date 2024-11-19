@@ -1,1 +1,2 @@
+https://devblogs.microsoft.com/powershell/announcing-the-public-preview-of-ai-shell/
 https://devblogs.microsoft.com/powershell/powershell-7-5-rc-1-is-now-available/
