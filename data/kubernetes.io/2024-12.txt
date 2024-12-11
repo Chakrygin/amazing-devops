@@ -1,0 +1,1 @@
+https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/
