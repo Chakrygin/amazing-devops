@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2024/12/12/scheduler-queueinghint/
 https://kubernetes.io/blog/2024/12/13/memory-manager-goes-ga/
 https://kubernetes.io/blog/2024/12/16/cpumanager-strict-cpu-reservation/
 https://kubernetes.io/blog/2024/12/17/kube-apiserver-api-streaming/
+https://kubernetes.io/blog/2024/12/18/kubernetes-1-32-volume-group-snapshot-beta/
