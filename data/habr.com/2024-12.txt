@@ -1,3 +1,4 @@
+https://habr.com/ru/articles/869164/
 https://habr.com/ru/companies/aenix/articles/865238/
 https://habr.com/ru/companies/flant/articles/860158/
 https://habr.com/ru/companies/flant/articles/862252/
@@ -8,6 +9,7 @@ https://habr.com/ru/companies/kaspersky/articles/864200/
 https://habr.com/ru/companies/kaspersky/articles/865394/
 https://habr.com/ru/companies/kts/articles/865150/
 https://habr.com/ru/companies/lanit/articles/863848/
+https://habr.com/ru/companies/monq/articles/867800/
 https://habr.com/ru/companies/mws/articles/867056/
 https://habr.com/ru/companies/postgrespro/articles/864142/
 https://habr.com/ru/companies/selectel/articles/862954/
