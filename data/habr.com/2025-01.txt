@@ -1,7 +1,9 @@
 https://habr.com/ru/articles/871546/
 https://habr.com/ru/articles/873112/
 https://habr.com/ru/companies/flant/articles/869308/
+https://habr.com/ru/companies/flant/articles/869312/
 https://habr.com/ru/companies/postgrespro/articles/862480/
+https://habr.com/ru/companies/postgrespro/articles/872574/
 https://habr.com/ru/companies/selectel/articles/870350/
 https://habr.com/ru/companies/selectel/articles/872502/
 https://habr.com/ru/companies/selectel/articles/872968/
