@@ -1,0 +1,22 @@
+{
+  "Habr / DevOps": {
+    "timestamp": "2025-01-18T10:29:40.915Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  },
+  "Habr / IT-инфраструктура": {
+    "timestamp": "2025-01-18T10:29:41.160Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  },
+  "Habr / Kubernetes": {
+    "timestamp": "2025-01-18T10:29:41.425Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  },
+  "Habr / PostgreSQL": {
+    "timestamp": "2025-01-18T10:29:41.704Z",
+    "message": "Failed to parse html page. No posts found.",
+    "counter": 1
+  }
+}
