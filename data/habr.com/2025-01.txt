@@ -1,5 +1,6 @@
 https://habr.com/ru/articles/871546/
 https://habr.com/ru/articles/873112/
+https://habr.com/ru/companies/arenadata/articles/875032/
 https://habr.com/ru/companies/flant/articles/869308/
 https://habr.com/ru/companies/flant/articles/869312/
 https://habr.com/ru/companies/flant/articles/874088/
@@ -8,6 +9,7 @@ https://habr.com/ru/companies/postgrespro/articles/872574/
 https://habr.com/ru/companies/selectel/articles/799899/
 https://habr.com/ru/companies/selectel/articles/870350/
 https://habr.com/ru/companies/selectel/articles/872502/
+https://habr.com/ru/companies/selectel/articles/872958/
 https://habr.com/ru/companies/selectel/articles/872968/
 https://habr.com/ru/companies/selectel/articles/873456/
 https://habr.com/ru/companies/selectel/articles/874724/
