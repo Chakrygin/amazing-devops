@@ -1,4 +1,0 @@
-https://kubernetes.io/blog/2024/03/01/sig-cloud-provider-spotlight-2024
-https://kubernetes.io/blog/2024/03/07/cri-o-seccomp-oci-artifacts
-https://kubernetes.io/blog/2024/03/12/kubernetes-1-30-upcoming-changes
-https://kubernetes.io/blog/2024/03/19/go-workspaces-in-kubernetes
