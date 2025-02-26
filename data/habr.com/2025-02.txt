@@ -26,3 +26,4 @@ https://habr.com/ru/companies/selectel/articles/884220/
 https://habr.com/ru/companies/selectel/articles/885542/
 https://habr.com/ru/companies/selectel/articles/885890/
 https://habr.com/ru/companies/yadro/articles/885320/
+https://habr.com/ru/companies/yandex_cloud_and_infra/articles/885788/
