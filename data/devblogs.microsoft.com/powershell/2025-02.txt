@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/powershell/announcing-powershell-7-5-ga/
+https://devblogs.microsoft.com/powershell/microsoft-update-changes-for-powershell-7/
