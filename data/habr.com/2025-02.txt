@@ -2,6 +2,7 @@ https://habr.com/ru/articles/878592/
 https://habr.com/ru/articles/881428/
 https://habr.com/ru/articles/881614/
 https://habr.com/ru/articles/884902/
+https://habr.com/ru/articles/886124/
 https://habr.com/ru/companies/amvera/articles/882878/
 https://habr.com/ru/companies/barsgroup/articles/879132/
 https://habr.com/ru/companies/flant/articles/879564/
@@ -25,5 +26,6 @@ https://habr.com/ru/companies/selectel/articles/883650/
 https://habr.com/ru/companies/selectel/articles/884220/
 https://habr.com/ru/companies/selectel/articles/885542/
 https://habr.com/ru/companies/selectel/articles/885890/
+https://habr.com/ru/companies/selectel/articles/886326/
 https://habr.com/ru/companies/yadro/articles/885320/
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/885788/
