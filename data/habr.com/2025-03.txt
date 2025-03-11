@@ -1,5 +1,6 @@
 https://habr.com/ru/articles/887490/
 https://habr.com/ru/articles/889368/
+https://habr.com/ru/articles/889758/
 https://habr.com/ru/companies/flant/articles/884628/
 https://habr.com/ru/companies/habr_rutube/articles/887748/
 https://habr.com/ru/companies/oleg-bunin/articles/885596/
@@ -7,3 +8,4 @@ https://habr.com/ru/companies/selectel/articles/888662/
 https://habr.com/ru/companies/sravni/articles/888534/
 https://habr.com/ru/companies/tbank/articles/886488/
 https://habr.com/ru/companies/timeweb/articles/887604/
+https://habr.com/ru/companies/yadro/articles/886480/
