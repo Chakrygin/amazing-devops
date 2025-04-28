@@ -32,4 +32,5 @@ https://habr.com/ru/companies/tensor/articles/901216/
 https://habr.com/ru/companies/vktech/articles/895954/
 https://habr.com/ru/companies/yandex/articles/894294/
 https://habr.com/ru/companies/yandex/articles/897626/
+https://habr.com/ru/companies/yandex/articles/904158/
 https://habr.com/ru/companies/ydb/articles/901816/
