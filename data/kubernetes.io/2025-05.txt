@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2025/04/30/kubernetes-v1-33-storage-capacity-scoring-feature/
+https://kubernetes.io/blog/2025/05/01/kubernetes-v1-33-dra-updates/
