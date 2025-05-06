@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2025/04/30/kubernetes-v1-33-storage-capacity-scoring-
 https://kubernetes.io/blog/2025/05/01/kubernetes-v1-33-dra-updates/
 https://kubernetes.io/blog/2025/05/02/kubernetes-1-33-mutable-csi-node-allocatable-count/
 https://kubernetes.io/blog/2025/05/05/kubernetes-v1-33-prevent-persistentvolume-leaks-when-deleting-out-of-order-graduate-to-ga/
+https://kubernetes.io/blog/2025/05/06/kubernetes-v1-33-fine-grained-supplementalgroups-control-beta/
