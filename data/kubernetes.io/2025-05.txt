@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2025/05/06/kubernetes-v1-33-fine-grained-supplemental
 https://kubernetes.io/blog/2025/05/07/kubernetes-v1-33-wi-for-image-pulls/
 https://kubernetes.io/blog/2025/05/08/kubernetes-v1-33-volume-populators-ga/
 https://kubernetes.io/blog/2025/05/09/kubernetes-v1-33-streaming-list-responses/
+https://kubernetes.io/blog/2025/05/12/kubernetes-v1-33-ensure-secret-pulled-images-alpha/
