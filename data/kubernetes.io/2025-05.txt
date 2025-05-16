@@ -9,4 +9,5 @@ https://kubernetes.io/blog/2025/05/09/kubernetes-v1-33-streaming-list-responses/
 https://kubernetes.io/blog/2025/05/12/kubernetes-v1-33-ensure-secret-pulled-images-alpha/
 https://kubernetes.io/blog/2025/05/13/kubernetes-v1-33-jobs-backoff-limit-per-index-goes-ga/
 https://kubernetes.io/blog/2025/05/14/kubernetes-v1-33-updates-to-container-lifecycle/
+https://kubernetes.io/blog/2025/05/15/announcing-etcd-3.6/
 https://kubernetes.io/blog/2025/05/15/kubernetes-1-33-jobs-success-policy-goes-ga/
