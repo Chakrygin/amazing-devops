@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2025/06/02/gateway-api-v1-3/
+https://kubernetes.io/blog/2025/06/03/start-sidecar-first/
