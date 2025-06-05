@@ -1,2 +1,3 @@
 https://kubernetes.io/blog/2025/06/02/gateway-api-v1-3/
 https://kubernetes.io/blog/2025/06/03/start-sidecar-first/
+https://kubernetes.io/blog/2025/06/05/introducing-gateway-api-inference-extension/
