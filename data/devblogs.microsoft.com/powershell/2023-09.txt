@@ -1,3 +1,0 @@
-https://devblogs.microsoft.com/powershell/announcing-powershell-crescendo-1-1-0
-https://devblogs.microsoft.com/powershell/powershellget-3-0-22-beta22-is-now-available
-https://devblogs.microsoft.com/powershell/psresourceget-release-candidate-is-now-available
