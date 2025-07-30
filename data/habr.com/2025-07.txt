@@ -11,6 +11,7 @@ https://habr.com/ru/companies/1c/articles/930588/
 https://habr.com/ru/companies/avito/articles/929732/
 https://habr.com/ru/companies/flant/articles/928114/
 https://habr.com/ru/companies/flant/articles/928672/
+https://habr.com/ru/companies/greengage/articles/929684/
 https://habr.com/ru/companies/k2tech/articles/923698/
 https://habr.com/ru/companies/k2tech/articles/924664/
 https://habr.com/ru/companies/k2tech/articles/925736/
@@ -46,5 +47,6 @@ https://habr.com/ru/companies/selectel/articles/928922/
 https://habr.com/ru/companies/selectel/articles/931018/
 https://habr.com/ru/companies/selectel/articles/931760/
 https://habr.com/ru/companies/selectel/articles/932112/
+https://habr.com/ru/companies/selectel/articles/932324/
 https://habr.com/ru/companies/tantor/articles/929980/
 https://habr.com/ru/companies/yadro/articles/930674/
