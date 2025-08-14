@@ -1,9 +1,11 @@
 https://habr.com/ru/articles/935606/
 https://habr.com/ru/articles/936310/
 https://habr.com/ru/companies/T1Holding/articles/933186/
+https://habr.com/ru/companies/finops_ru/articles/936768/
 https://habr.com/ru/companies/flant/articles/931902/
 https://habr.com/ru/companies/flant/articles/932862/
 https://habr.com/ru/companies/gnivc/articles/935146/
+https://habr.com/ru/companies/h3llo_cloud/articles/936016/
 https://habr.com/ru/companies/k2tech/articles/932106/
 https://habr.com/ru/companies/k2tech/articles/934942/
 https://habr.com/ru/companies/postgrespro/articles/935462/
