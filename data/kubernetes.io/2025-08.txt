@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2025/08/07/introducing-headlamp-ai-assistant/
+https://kubernetes.io/blog/2025/08/19/tuning-linux-swap-for-kubernetes-a-deep-dive/
