@@ -1,0 +1,7 @@
+{
+  "Kubernetes": {
+    "timestamp": "2025-08-27T20:31:17.508Z",
+    "message": "400: Bad Request: failed to get HTTP URL content",
+    "counter": 1
+  }
+}
