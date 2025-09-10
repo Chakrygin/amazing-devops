@@ -5,3 +5,4 @@ https://kubernetes.io/blog/2025/09/04/kubernetes-v1-34-introducing-psi-metrics-b
 https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/
 https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/
 https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/
+https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/
