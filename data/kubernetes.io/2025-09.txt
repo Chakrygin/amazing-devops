@@ -4,3 +4,4 @@ https://kubernetes.io/blog/2025/09/03/kubernetes-v1-34-sa-tokens-image-pulls-bet
 https://kubernetes.io/blog/2025/09/04/kubernetes-v1-34-introducing-psi-metrics-beta/
 https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/
 https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/
+https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/
