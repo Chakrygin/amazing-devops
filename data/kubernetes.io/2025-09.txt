@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-fo
 https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/
 https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/
 https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/
+https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/
