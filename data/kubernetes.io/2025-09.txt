@@ -8,3 +8,4 @@ https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-
 https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/
 https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/
 https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/
+https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/
