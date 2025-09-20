@@ -12,3 +12,4 @@ https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-i
 https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/
 https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/
 https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/
+https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/
