@@ -14,3 +14,4 @@ https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-
 https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/
 https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/
 https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/
+https://kubernetes.io/blog/2025/09/25/csi-changed-block-tracking/
