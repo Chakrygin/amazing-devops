@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/
+https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/
