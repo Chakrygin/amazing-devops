@@ -6,9 +6,11 @@ https://habr.com/ru/companies/finops_ru/articles/963210/
 https://habr.com/ru/companies/oleg-bunin/articles/958922/
 https://habr.com/ru/companies/postgrespro/articles/964274/
 https://habr.com/ru/companies/ruvds/articles/962710/
+https://habr.com/ru/companies/selectel/articles/958526/
 https://habr.com/ru/companies/selectel/articles/961838/
 https://habr.com/ru/companies/selectel/articles/962060/
 https://habr.com/ru/companies/selectel/articles/963562/
 https://habr.com/ru/companies/selectel/articles/963986/
 https://habr.com/ru/companies/timeweb/articles/956574/
 https://habr.com/ru/companies/yandex/articles/959432/
+https://habr.com/ru/companies/yandex/articles/964778/
