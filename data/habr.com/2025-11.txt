@@ -4,6 +4,7 @@ https://habr.com/ru/articles/962642/
 https://habr.com/ru/articles/964484/
 https://habr.com/ru/companies/beeline_cloud/articles/965850/
 https://habr.com/ru/companies/finops_ru/articles/963210/
+https://habr.com/ru/companies/flant/articles/962480/
 https://habr.com/ru/companies/oleg-bunin/articles/958922/
 https://habr.com/ru/companies/postgrespro/articles/964274/
 https://habr.com/ru/companies/ruvds/articles/962710/
