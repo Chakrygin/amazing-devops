@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/
 https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/
 https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/
 https://kubernetes.io/blog/2025/11/25/configuration-good-practices/
+https://kubernetes.io/blog/2025/11/26/kubernetes-v1-35-sneak-peek/
