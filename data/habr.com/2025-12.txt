@@ -3,5 +3,6 @@ https://habr.com/ru/companies/cloud_ru/articles/970834/
 https://habr.com/ru/companies/ncloudtech/articles/965576/
 https://habr.com/ru/companies/ruvds/articles/972332/
 https://habr.com/ru/companies/selectel/articles/972866/
+https://habr.com/ru/companies/vktech/articles/972816/
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/971408/
 https://habr.com/ru/companies/ydb/articles/972180/
