@@ -10,5 +10,6 @@ https://habr.com/ru/companies/selectel/articles/972866/
 https://habr.com/ru/companies/ultravds/articles/972894/
 https://habr.com/ru/companies/vktech/articles/972816/
 https://habr.com/ru/companies/vktech/articles/972982/
+https://habr.com/ru/companies/yandex/articles/972164/
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/971408/
 https://habr.com/ru/companies/ydb/articles/972180/
