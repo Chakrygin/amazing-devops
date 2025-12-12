@@ -6,6 +6,7 @@ https://habr.com/ru/companies/cloud_ru/articles/970834/
 https://habr.com/ru/companies/jetinfosystems/articles/974850/
 https://habr.com/ru/companies/lanit/articles/964974/
 https://habr.com/ru/companies/ncloudtech/articles/965576/
+https://habr.com/ru/companies/postgrespro/articles/974652/
 https://habr.com/ru/companies/reactos/articles/973432/
 https://habr.com/ru/companies/ruvds/articles/972332/
 https://habr.com/ru/companies/selectel/articles/972866/
