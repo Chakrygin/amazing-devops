@@ -1,1 +1,0 @@
-https://kubernetes.io/blog/2025/01/21/sig-architecture-enhancements/
