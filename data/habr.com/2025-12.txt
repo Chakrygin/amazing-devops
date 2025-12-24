@@ -5,9 +5,11 @@ https://habr.com/ru/articles/974040/
 https://habr.com/ru/articles/977366/
 https://habr.com/ru/articles/978734/
 https://habr.com/ru/articles/979204/
+https://habr.com/ru/articles/980082/
 https://habr.com/ru/companies/avito/articles/972412/
 https://habr.com/ru/companies/cloud_ru/articles/970834/
 https://habr.com/ru/companies/flant/articles/974808/
+https://habr.com/ru/companies/flant/articles/978322/
 https://habr.com/ru/companies/jetinfosystems/articles/974850/
 https://habr.com/ru/companies/lanit/articles/964974/
 https://habr.com/ru/companies/ncloudtech/articles/965576/
