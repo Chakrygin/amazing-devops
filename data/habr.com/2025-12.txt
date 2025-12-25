@@ -14,6 +14,7 @@ https://habr.com/ru/companies/jetinfosystems/articles/974850/
 https://habr.com/ru/companies/lanit/articles/964974/
 https://habr.com/ru/companies/ncloudtech/articles/965576/
 https://habr.com/ru/companies/postgrespro/articles/974652/
+https://habr.com/ru/companies/postgrespro/articles/980218/
 https://habr.com/ru/companies/reactos/articles/973432/
 https://habr.com/ru/companies/ruvds/articles/972332/
 https://habr.com/ru/companies/ruvds/articles/975114/
@@ -28,6 +29,7 @@ https://habr.com/ru/companies/ultravds/articles/972894/
 https://habr.com/ru/companies/vktech/articles/972032/
 https://habr.com/ru/companies/vktech/articles/972816/
 https://habr.com/ru/companies/vktech/articles/972982/
+https://habr.com/ru/companies/yadro/articles/973346/
 https://habr.com/ru/companies/yandex/articles/972164/
 https://habr.com/ru/companies/yandex_cloud_and_infra/articles/971408/
 https://habr.com/ru/companies/ydb/articles/972180/
