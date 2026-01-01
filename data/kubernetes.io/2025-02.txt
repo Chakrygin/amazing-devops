@@ -1,2 +1,0 @@
-https://kubernetes.io/blog/2025/02/14/cloud-controller-manager-chicken-egg-problem/
-https://kubernetes.io/blog/2025/02/28/nftables-kube-proxy/
