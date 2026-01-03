@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/
+https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/
