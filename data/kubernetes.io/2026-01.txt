@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/
 https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/
 https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/
 https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/
+https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/
