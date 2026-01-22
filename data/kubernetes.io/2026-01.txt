@@ -6,3 +6,4 @@ https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/
 https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/
 https://kubernetes.io/blog/2026/01/19/clientcmd-apiserver-access/
 https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/
+https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/
