@@ -8,6 +8,7 @@ https://habr.com/ru/articles/987364/
 https://habr.com/ru/companies/bastion/articles/984400/
 https://habr.com/ru/companies/flant/articles/979668/
 https://habr.com/ru/companies/flant/articles/979672/
+https://habr.com/ru/companies/kts/articles/988510/
 https://habr.com/ru/companies/postgrespro/articles/984580/
 https://habr.com/ru/companies/postgrespro/articles/985698/
 https://habr.com/ru/companies/ru_mts/articles/987022/
