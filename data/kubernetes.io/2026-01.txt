@@ -9,3 +9,4 @@ https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/
 https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/
 https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/
 https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/
+https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/
