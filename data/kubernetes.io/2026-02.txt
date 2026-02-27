@@ -1,2 +1,3 @@
 https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/
 https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/
+https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/
