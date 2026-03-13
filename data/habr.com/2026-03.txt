@@ -5,6 +5,7 @@ https://habr.com/ru/articles/1008982/
 https://habr.com/ru/companies/first/articles/1006278/
 https://habr.com/ru/companies/otus/articles/994154/
 https://habr.com/ru/companies/postgrespro/articles/1001194/
+https://habr.com/ru/companies/postgrespro/articles/1004040/
 https://habr.com/ru/companies/postgrespro/articles/1006080/
 https://habr.com/ru/companies/ru_mts/articles/1004448/
 https://habr.com/ru/companies/ru_mts/articles/1005890/
@@ -14,6 +15,7 @@ https://habr.com/ru/companies/selectel/articles/1005368/
 https://habr.com/ru/companies/selectel/articles/1005504/
 https://habr.com/ru/companies/selectel/articles/1007034/
 https://habr.com/ru/companies/selectel/articles/1007174/
+https://habr.com/ru/companies/selectel/articles/1009450/
 https://habr.com/ru/companies/selectel/articles/1009492/
 https://habr.com/ru/companies/vktech/articles/1005846/
 https://habr.com/ru/companies/yadro/articles/1006916/
