@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/powershell/psresourceget-support-for-azure-container-registry-acr-is-in-preview
