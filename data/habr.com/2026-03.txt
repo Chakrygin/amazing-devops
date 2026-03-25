@@ -17,6 +17,7 @@ https://habr.com/ru/companies/axiomjdk/articles/1010606/
 https://habr.com/ru/companies/first/articles/1006278/
 https://habr.com/ru/companies/jetinfosystems/articles/1013566/
 https://habr.com/ru/companies/oleg-bunin/articles/995820/
+https://habr.com/ru/companies/otus/articles/1008372/
 https://habr.com/ru/companies/otus/articles/1012266/
 https://habr.com/ru/companies/otus/articles/994154/
 https://habr.com/ru/companies/postgrespro/articles/1001194/
@@ -36,6 +37,7 @@ https://habr.com/ru/companies/selectel/articles/1009276/
 https://habr.com/ru/companies/selectel/articles/1009450/
 https://habr.com/ru/companies/selectel/articles/1009492/
 https://habr.com/ru/companies/selectel/articles/1009954/
+https://habr.com/ru/companies/selectel/articles/1012836/
 https://habr.com/ru/companies/selectel/articles/1013862/
 https://habr.com/ru/companies/vktech/articles/1005846/
 https://habr.com/ru/companies/vktech/articles/1010746/
