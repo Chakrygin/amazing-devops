@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/
 https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/
 https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/
 https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/
+https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/
