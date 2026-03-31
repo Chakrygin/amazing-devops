@@ -16,6 +16,7 @@ https://habr.com/ru/articles/1014672/
 https://habr.com/ru/articles/1014950/
 https://habr.com/ru/companies/avito/articles/1012780/
 https://habr.com/ru/companies/axiomjdk/articles/1010606/
+https://habr.com/ru/companies/beget/articles/1012834/
 https://habr.com/ru/companies/first/articles/1006278/
 https://habr.com/ru/companies/flant/articles/1014176/
 https://habr.com/ru/companies/jetinfosystems/articles/1013566/
@@ -34,6 +35,7 @@ https://habr.com/ru/companies/ru_mts/articles/1013662/
 https://habr.com/ru/companies/ruvds/articles/1007534/
 https://habr.com/ru/companies/ruvds/articles/1009366/
 https://habr.com/ru/companies/ruvds/articles/1013140/
+https://habr.com/ru/companies/ruvds/articles/1016990/
 https://habr.com/ru/companies/selectel/articles/1005368/
 https://habr.com/ru/companies/selectel/articles/1005504/
 https://habr.com/ru/companies/selectel/articles/1007034/
