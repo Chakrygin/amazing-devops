@@ -2,3 +2,4 @@ https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/
 https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/
 https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/
 https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/
+https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/
