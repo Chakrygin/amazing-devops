@@ -1,2 +1,3 @@
+https://devblogs.microsoft.com/powershell/announcing-dsc-v3-2-0/
 https://devblogs.microsoft.com/powershell/powershell-7-6-release-postmortem/
 https://devblogs.microsoft.com/powershell/powershell-msi-deprecation/
