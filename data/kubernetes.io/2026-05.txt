@@ -1,2 +1,3 @@
 https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/
 https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/
+https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/
