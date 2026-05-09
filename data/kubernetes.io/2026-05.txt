@@ -3,3 +3,4 @@ https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resourc
 https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/
 https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch/
 https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates/
+https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/
