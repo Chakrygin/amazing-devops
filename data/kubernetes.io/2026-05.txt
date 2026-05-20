@@ -9,3 +9,4 @@ https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-
 https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/
 https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/
 https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/
+https://kubernetes.io/blog/2026/05/20/etcd-370-beta/
