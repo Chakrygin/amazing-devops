@@ -16,7 +16,7 @@ export class KubernetesScraper extends ScraperBase {
   protected override fetchPosts(): AsyncGenerator<Post> {
     return this
       .fromHtmlPage(this.Kubernetes.href)
-      .fetchPosts('main>div>div>ul:first-of-type>li>div.media-body', ($, element) => {
+      .fetchPosts('main>div>div>ul:first-of-type>li>div', ($, element) => {
 
         const link = element.find('h5>a');
         const title = link.text();
