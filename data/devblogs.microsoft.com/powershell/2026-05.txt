@@ -1,1 +1,2 @@
+https://devblogs.microsoft.com/powershell/powershell-notarized-hardened-macos/
 https://devblogs.microsoft.com/powershell/powershell-psresource-roadmap-and-best-practices/
