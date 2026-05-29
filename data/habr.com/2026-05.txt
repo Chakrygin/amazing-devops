@@ -34,5 +34,8 @@ https://habr.com/ru/companies/selectel/articles/1037970/
 https://habr.com/ru/companies/selectel/articles/1038054/
 https://habr.com/ru/companies/selectel/articles/1039992/
 https://habr.com/ru/companies/timeweb/articles/1037476/
+https://habr.com/ru/companies/timeweb/articles/1037700/
+https://habr.com/ru/companies/vktech/articles/1029230/
 https://habr.com/ru/companies/yadro/articles/1039146/
 https://habr.com/ru/companies/yandex/articles/1032168/
+https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1040504/
