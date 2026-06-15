@@ -1,1 +1,2 @@
 https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/
+https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/
