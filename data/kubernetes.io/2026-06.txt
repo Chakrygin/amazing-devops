@@ -4,3 +4,4 @@ https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/
 https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/
 https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/
 https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/
+https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/
