@@ -30,6 +30,7 @@ https://habr.com/ru/companies/selectel/articles/1048672/
 https://habr.com/ru/companies/selectel/articles/1048676/
 https://habr.com/ru/companies/selectel/articles/1048774/
 https://habr.com/ru/companies/selectel/articles/1050518/
+https://habr.com/ru/companies/selectel/articles/1050792/
 https://habr.com/ru/companies/selectel/articles/1051876/
 https://habr.com/ru/companies/uzum/articles/1050824/
 https://habr.com/ru/companies/vk/articles/1039688/
@@ -38,3 +39,4 @@ https://habr.com/ru/companies/vktech/articles/1043000/
 https://habr.com/ru/companies/yandex/articles/1043686/
 https://habr.com/ru/companies/yandex/articles/1046483/
 https://habr.com/ru/companies/yandex/articles/1049126/
+https://habr.com/ru/companies/yandex/articles/1052452/
