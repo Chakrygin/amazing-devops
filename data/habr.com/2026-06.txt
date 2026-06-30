@@ -6,7 +6,9 @@ https://habr.com/ru/articles/1047374/
 https://habr.com/ru/articles/1047442/
 https://habr.com/ru/articles/1047796/
 https://habr.com/ru/articles/1050990/
+https://habr.com/ru/articles/1053872/
 https://habr.com/ru/companies/X5Tech/articles/1045434/
+https://habr.com/ru/companies/avito/articles/1050838/
 https://habr.com/ru/companies/bastion/articles/1041724/
 https://habr.com/ru/companies/chislitellab/articles/1043448/
 https://habr.com/ru/companies/chislitellab/articles/1044810/
@@ -33,6 +35,7 @@ https://habr.com/ru/companies/selectel/articles/1050518/
 https://habr.com/ru/companies/selectel/articles/1050792/
 https://habr.com/ru/companies/selectel/articles/1051876/
 https://habr.com/ru/companies/selectel/articles/1053616/
+https://habr.com/ru/companies/selectel/articles/1053836/
 https://habr.com/ru/companies/uzum/articles/1050824/
 https://habr.com/ru/companies/vk/articles/1039688/
 https://habr.com/ru/companies/vk/articles/1040306/
