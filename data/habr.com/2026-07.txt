@@ -1,5 +1,6 @@
 https://habr.com/ru/articles/1055176/
 https://habr.com/ru/articles/1055222/
+https://habr.com/ru/companies/bastion/articles/1008166/
 https://habr.com/ru/companies/k2tech/articles/1053424/
 https://habr.com/ru/companies/netologyru/articles/1051792/
 https://habr.com/ru/companies/postgrespro/articles/1052440/
@@ -13,6 +14,7 @@ https://habr.com/ru/companies/selectel/articles/1055720/
 https://habr.com/ru/companies/selectel/articles/1056218/
 https://habr.com/ru/companies/selectel/articles/1056520/
 https://habr.com/ru/companies/selectel/articles/1056850/
+https://habr.com/ru/companies/timeweb/articles/1036438/
 https://habr.com/ru/companies/yadro/articles/1054094/
 https://habr.com/ru/companies/yadro/articles/1055968/
 https://habr.com/ru/companies/yandex/articles/1056694/
