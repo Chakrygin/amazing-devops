@@ -1,3 +1,4 @@
 https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/
 https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/
 https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/
+https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/
